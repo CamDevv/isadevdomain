@@ -1,1 +1,13 @@
-
+{
+  "description": "My portfolio!",
+  "repo": "https://github.com/CamDevv/isadevdomain",
+  "owner": {
+    "username": "CamDevv",
+    "email": "cv2@cv2.im",
+    "discord": "mrcv3"
+  },
+  "record": {
+    "CNAME": "cv2.im"
+  },
+  "proxied": true
+}
